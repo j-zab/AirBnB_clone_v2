@@ -1,0 +1,1 @@
+Generally shows on how to build web framework,  how routes are definedand what they should handle.Also how to handle variables in the route.Creating HTML response in flask by using template and how to create dynamic templates. How to display HTML data from MySQL database
